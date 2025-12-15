@@ -1,5 +1,5 @@
-# javaAssignment-3rd-sem
-java assignment 3rd semester 
+# Java Assignment 1
+Java Programming Encs201
 
 
 
