@@ -21,5 +21,3 @@ This is a beginner-friendly Java project for managing basic bank account operati
 🧾 Display complete account information
 
 📦 Fully encapsulated design (OOP-based)
-
-thanks to reach and view my project,  i will make more this type of simple project so connect me on linkedin for more feature update...
